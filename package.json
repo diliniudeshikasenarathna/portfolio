@@ -1,7 +1,7 @@
 {
-  "name": "kasun-thenuwara",
+  
   "version": "0.1.0",
-  "homepage": "https://kasun97-sudo.github.io/portfolio-web-site",
+  "homepage": "https://diliniudeshikasenarathna.github.io/portfolio",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",

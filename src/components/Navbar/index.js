@@ -31,7 +31,7 @@ const Navbar = () => {
         </NavItems>
         <ButtonContainer>
           <GitHubButton href={Bio.github} target="_blank">Github</GitHubButton>
-          <GitHubButton href={Bio.gitlab} target="_blank">GitLab</GitHubButton>
+          {/* <GitHubButton href={Bio.gitlab} target="_blank">GitLab</GitHubButton> */}
         </ButtonContainer>
         {
           isOpen &&

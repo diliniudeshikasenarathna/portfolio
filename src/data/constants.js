@@ -19,7 +19,7 @@ export const Bio = {
   description:
     "I'm a driven, adaptable person that is committed to doing excellent work and has a love of learning. I'm always up for a challenge and approach every opportunity with a growth mindset and a positive outlook. I'm a dedicated worker who enjoys learning new things, trying out various strategies, and honing my abilities.",
   github: "https://github.com/diliniudeshikasenarathna",
-  gitlab : "https://gitlab.com/iamkasun97",
+  gitlab : "https://gitlab.com/diliniudeshikasenarathna",
   resume:
     "https://drive.google.com/file/d/1GtS-A0NaocjFkji5Ixf4rNCLOKFQM3yg/view?usp=drive_link",
   linkedin: "www.linkedin.com/in/dilini-kariyawasam-446012214",
