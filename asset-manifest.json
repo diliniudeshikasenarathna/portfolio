@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.bf538fe7.css",
+    "main.js": "/portfolio/static/js/main.026a3afa.js",
+    "static/media/AzureCetificate.jpg": "/portfolio/static/media/AzureCetificate.d094d9762931d5c18852.jpg",
+    "static/media/linkedinCerificate.png": "/portfolio/static/media/linkedinCerificate.70c8a5b346ce436381ae.png",
+    "static/media/udemyCerificate.png": "/portfolio/static/media/udemyCerificate.4fa2c58bb058e291bb91.png",
+    "static/media/university.jpg": "/portfolio/static/media/university.5ad1d2e314bf919589e0.jpg",
+    "static/media/cvPhoto.jpeg": "/portfolio/static/media/cvPhoto.6eaa384ae5049077abc0.jpeg",
+    "static/media/ccgc.jpg": "/portfolio/static/media/ccgc.0b52b4ed29aaeea1d7c9.jpg",
+    "static/media/contact.png": "/portfolio/static/media/contact.0b53f5f621c84ae61221.png",
+    "static/media/shc.jpg": "/portfolio/static/media/shc.17f86dcd9b8e57296086.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.bf538fe7.css.map": "/portfolio/static/css/main.bf538fe7.css.map",
+    "main.026a3afa.js.map": "/portfolio/static/js/main.026a3afa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.026a3afa.js"
+  ]
+}
